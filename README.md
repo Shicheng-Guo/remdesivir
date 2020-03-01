@@ -1,4 +1,4 @@
-# remdesivir
+# remdesivir - GS-5734
 
 
 Q&A环节问题1：瑞德西韦在埃博拉的临床试验中治疗效果比抗体要低，背后的原因是什么？（To Dr. Tomas Cihlar）
